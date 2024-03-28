@@ -1,0 +1,11 @@
+#using Block Letters to create initial
+ame = """
+ BBBB  Y     Y
+ B   B  Y   Y
+ B   B    Y
+ BBBB     Y
+ B   B    Y
+ B   B    Y
+ BBBB     Y
+ """
+print(name)
